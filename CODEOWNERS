@@ -1,0 +1,4 @@
+*.ts @yuriagopian
+*.json @yuriagopian
+
+/.docker/ @yuriagopian
